@@ -54,6 +54,10 @@ p {
   color: #f4f4f4;
   color: #333;
 }
+.bg-darkl{
+  background: #444;
+  color: #fff;
+}
 .bg-dark {
   background: #333;
   color: #fff;

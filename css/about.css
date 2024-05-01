@@ -1,0 +1,53 @@
+#about-info{
+    padding: 30px;
+}
+
+#about-info .about-img{
+   float: right;
+   min-height: 100%;
+   width: 50%;
+    
+  
+}
+#about-info .about-img img{
+    display: block;
+    width: 70%;
+    margin: auto;
+    border-radius: 50%;
+    
+}
+#about-info .about-ht{
+    float: left;
+    width: 50%;
+    min-height: 100%;
+}
+#about-info .about-ht h1{
+    font-size: 40px;
+}
+
+#testimonials h1{
+    color: #fff;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#testimonials{
+    background: url(../image_resources/test-bg.jpg) no-repeat center center/cover;
+      height: 600px;
+      padding-top: 100px;
+}
+
+#testimonials .testimony{
+    padding: 20px;
+    margin-bottom: 40px;
+    border-radius: 15px;
+    opacity: 0.9;
+}
+#testimonials .testimony img{
+   float: left;
+    width: 100px;
+    border-radius: 50%;
+    padding: 20px;
+   
+   
+}
