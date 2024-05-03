@@ -11,8 +11,9 @@
 }
 #about-info .about-img img{
     display: block;
+    margin: 0 auto;
     width: 70%;
-    margin: auto;
+   
     border-radius: 50%;
     
 }
@@ -33,7 +34,7 @@
 
 #testimonials{
     background: url(../image_resources/test-bg.jpg) no-repeat center center/cover;
-      height: 600px;
+      height: 100%;
       padding-top: 100px;
 }
 
